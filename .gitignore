@@ -1,3 +1,7 @@
+## MY STUFF
+ground_segmentation_models/
+test_images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
